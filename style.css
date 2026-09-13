@@ -182,12 +182,6 @@ button:focus-visible {
   height: 14px;
 }
 
-.location-line {
-  margin-top: var(--space-2);
-  font-size: 0.85rem;
-  color: var(--text-muted);
-}
-
 /* ---------- Stats ---------- */
 .stats {
   padding: var(--space-4) 0;
